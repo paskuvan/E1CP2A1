@@ -1,0 +1,19 @@
+.header {
+	text-align: center;
+	background-color: #a1243a;
+	color: #f2af40;
+	font-size: 18px;
+	overflow: auto;
+	font-family: 'El Rio Lobo';
+
+}
+
+p {
+	color: #ffffff;
+	font-family: arial, sans-serif;
+}
+
+.contenedor {
+	background-color: #158abe;
+	padding: 40px;
+}
