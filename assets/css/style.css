@@ -4,8 +4,12 @@
 	color: #f2af40;
 	font-size: 18px;
 	overflow: auto;
-	font-family: 'El Rio Lobo';
+	
 
+}
+
+h1 {
+	font-family: 'El Rio Lobo';
 }
 
 p {
@@ -13,7 +17,26 @@ p {
 	font-family: arial, sans-serif;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .contenedor {
 	background-color: #158abe;
 	padding: 40px;
+
+}
+
+.borde-negro {
+	background-color: #000;
+	color: #f2af40;
+	
+}
+
+.bg-image {
+	background-size: cover;
+	overflow: auto;
 }
