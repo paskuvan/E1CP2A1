@@ -17,13 +17,20 @@ h2 {
 	color: #f2af40;
 	font-size: 35px;
 	position: absolute;
-	padding-left: 37em;
+	padding-left: 50em;
 }
 
 
 p {
 	color: #ffffff;
 	font-family: arial, sans-serif;
+	
+}
+
+.parrafo {
+	position: absolute;
+	padding-left: 98em;
+	padding-top: 58px;
 }
 
 .center {
@@ -51,3 +58,10 @@ p {
 	position: static;
 	width:100%;
 }
+
+.footer h1{
+	font-size: 100px;
+}
+
+
+
