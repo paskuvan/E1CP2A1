@@ -12,6 +12,15 @@ h1 {
 	font-family: 'El Rio Lobo';
 }
 
+h2 {
+	font-family: 'El Rio Lobo';
+	color: #f2af40;
+	font-size: 35px;
+	position: absolute;
+	padding-left: 37em;
+}
+
+
 p {
 	color: #ffffff;
 	font-family: arial, sans-serif;
@@ -39,4 +48,6 @@ p {
 .bg-image {
 	background-size: cover;
 	overflow: auto;
+	position: static;
+	width:100%;
 }
